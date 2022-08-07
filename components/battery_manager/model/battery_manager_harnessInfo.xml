@@ -38,7 +38,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">10|39|0|0|0|0|0</P>
-    <P Name="OpenGraphs">||battery_manager_Harness1</P>
+    <P Name="OpenGraphs">||||battery_manager_Harness1</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
   </Harness>
